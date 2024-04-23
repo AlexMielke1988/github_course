@@ -9,6 +9,12 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_N2FmMDkyZGMtNGU5MC00OGZkL
 
 I will post all slides and additional resources here.
 
+## Papers
+
+How Github can help you:
+
+https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.14108
+
 ## Youtube Videos
 If you do not have time to watch the recording for 1h or should the recording not work out, here are some additional resources to get you started:
 
