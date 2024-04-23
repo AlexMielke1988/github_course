@@ -21,3 +21,9 @@ Malika Ihle from LMU created some fantastic Github learning resources for a larg
 https://lmu-osc.github.io/Introduction-RStudio-Git-GitHub/
 
 https://lmu-osc.github.io/Collaborative-RStudio-GitHub/
+
+## Literature on Reproducible Workflows
+
+This book has some chapters on what makes research reproducible, and then 30 chapters with examples from different fields that have achieved reproducible workflows:
+
+http://www.practicereproducibleresearch.org/core-chapters/2-assessment.html
