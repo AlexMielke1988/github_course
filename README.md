@@ -15,6 +15,15 @@ How Github can help you:
 
 https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.14108
 
+FAIR research practices:
+
+https://www.go-fair.org/fair-principles/
+
+SOCIETY FOR OPEN, RELIABLE, AND TRANSPARENT ECOLOGY AND EVOLUTIONARY BIOLOGY (SORTEE)
+
+https://www.sortee.org/
+
+
 ## Youtube Videos
 If you do not have time to watch the recording for 1h or should the recording not work out, here are some additional resources to get you started:
 
