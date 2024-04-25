@@ -1,11 +1,7 @@
 # QMUL SBBS Github Workshop, Alex Mielke
 ## Information
 
-The workshop will take place Thursday, 25th April, 10-12am, iQ East Court (Scape): 0.14. 
-
-You can also follow it on Teams: 
-
-https://teams.microsoft.com/l/meetup-join/19%3ameeting_N2FmMDkyZGMtNGU5MC00OGZkLWE0MTMtNWZjMjU4MTM3ZWQ1%40thread.v2/0?context=%7b%22Tid%22%3a%22569df091-b013-40e3-86ee-bd9cb9e25814%22%2c%22Oid%22%3a%225d203844-5848-46be-99cf-e8269959cbdf%22%7d
+The workshop will took place Thursday, 25th April, 10-12am, iQ East Court (Scape): 0.14. 
 
 I will post all slides and additional resources here.
 
